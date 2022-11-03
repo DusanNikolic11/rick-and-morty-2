@@ -94,7 +94,7 @@ const EpisodesList = () => {
 
   return (
     <main>
-      <h2 className="text-center">Episodes Listtttttt</h2>
+      <h2 className="text-center">Episodes Listtttt</h2>
 
       <div className="form-group row container mx-auto">
         <label htmlFor="search" className="col-12">
